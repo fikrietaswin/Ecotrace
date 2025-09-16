@@ -1,7 +1,6 @@
-## Ekkotrace, by Srcbook
+## Ekkotrace, testing react capabilities
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+tracing carbon footprint and theory of chaange.
 
 To run the devserver:
 ```
